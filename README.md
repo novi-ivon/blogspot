@@ -1,4 +1,4 @@
-# Nama kelompok : novi risyama 065117099-qorri qp 065117108_tugas sodtware testing
+# Nama kelompok : novi rismaya 065117099-qorri qp 065117108_tugas sodtware testing
 
 
 #include<iostream>
